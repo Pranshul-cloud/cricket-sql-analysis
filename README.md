@@ -21,11 +21,11 @@ To demonstrate SQL skills by performing data exploration, cleaning, and analysis
 
 ## 📊 Key SQL Queries & Insights
 
-- Top run scorers and wicket-takers across seasons
-- Most successful teams and captains
-- Toss impact on match outcome
-- Performance of players in powerplay vs death overs
-- Matches with highest scores or tightest finishes
+- Which players have scored more than 10,000 runs?
+- Which player has the highest strike rate (SR)?
+- List all Indian players and sort them by total runs (highest first).
+- Which country has the most players in the top list?
+
 
 ---
 
