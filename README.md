@@ -14,16 +14,8 @@ To demonstrate SQL skills by performing data exploration, cleaning, and analysis
 
 ## 📂 Dataset
 
-- **Source:** [Insert dataset source – Kaggle, custom CSV, etc.]
-- **Tables Used:** Matches, Deliveries, Players, Teams
+- **Source:**  – Kaggle 
 
----
-
-## 🛠️ Tools & Technologies
-
-- **SQL** (PostgreSQL / MySQL / SQLite – update based on what you used)
-- **DB Tool:** [DBeaver / MySQL Workbench / SSMS / etc.]
-- **Excel** (for final presentation or visualization – optional)
 
 ---
 
